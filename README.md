@@ -36,3 +36,22 @@ Step 3: [2, 3, 4, 5, 7, 9, 8, 15, 6]
 
 Step 4: [2, 3, 4, 5, 6, 9, 8, 15, 7]
 
+
+#### Merge Sort Project
+
+Merge Sort Steps:
+
+Step 1: [16, 21, 11, 8, 12, 22]
+
+Step 2: [16, 21, 11]   [8, 12, 22]   
+
+Step 3: [16]   [21, 11]   [8]   [12, 22]  
+
+Step 4: [16]   [11, 21]   [8]   [12, 22]  
+
+Step 5: [11, 16, 21]   [8, 12, 22]   
+
+Step 6: [8, 11, 12, 16, 21, 22]  
+
+Big-O Notation: The time complexity of Merge Sort is O(n log n).
+
